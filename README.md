@@ -4,7 +4,9 @@
 
 **participo da aula de pensamento computacional**
 
-&#129313;
+&#128175;
+
+***estou desenvolvendo uma página no HTML o link da página está logo abaixo***&#128071;
 
 [] (https://github.com/Th4li4/lanchonete-btz.git)
 
