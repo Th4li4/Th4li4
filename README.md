@@ -1,12 +1,12 @@
- 👋***oi eu sou a Thalia Betz***
+ 👋***Oi eu sou a Thalia Betz***
  
-**estudo no colégio estadual do campo de rio do couro**
+**Estudo no Colégio Estadual do Campo de Rio do Couro**
 
-**participo da aula de pensamento computacional**
+**Participo da aula de pensamento computacional**
 
 &#128175;
 
-***estou desenvolvendo uma página no HTML o link da página está logo abaixo***&#128071;
+***Estou desenvolvendo uma página no HTML o link da página está logo abaixo***&#128071;
 
 [] (https://github.com/Th4li4/lanchonete-btz.git)
 
